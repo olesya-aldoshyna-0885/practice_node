@@ -1,0 +1,30 @@
+{
+  "name": "practice_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app",
+    "dev": "nodemon app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olesya-aldoshyna-0885/practice_node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olesya-aldoshyna-0885/practice_node/issues"
+  },
+  "homepage": "https://github.com/olesya-aldoshyna-0885/practice_node#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "moment": "^2.29.4"
+  },
+  "devDependencies": {
+    "cors": "^2.8.5",
+    "nodemon": "^2.0.22"
+  }
+}
